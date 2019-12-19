@@ -20,6 +20,20 @@
 - url: /intro
   not_numbered: true
 
+- divider: true
+- header: Demo Drawing
+
+- url: /euler/euler
+  not_numbered: true
+  expand_sections: true
+  sections:
+  - url: /euler/dash_notes
+
+- url: /draw
+  not_numbered: true
+
+# - url: /contributing
+
 # - url: /guide/01_overview
 #   not_numbered: true
 #   expand_sections: true
